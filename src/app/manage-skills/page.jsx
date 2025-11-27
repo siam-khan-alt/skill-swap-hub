@@ -46,7 +46,7 @@ export default function ManageMySkillsPage() {
     } else if (status === 'unauthenticated') {
       router.push('/login');
     }
-  }, [status, authorEmail, router]);
+  }, [status, authorEmail, fetchMySkills, router]);
 
   const handleDelete = async (id) => {
     const result = await Swal.fire({
