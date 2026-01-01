@@ -18,6 +18,26 @@ SkillSwap Hub allows users to:
 
 ---
 
+## 📸 Project Previews
+
+<p align="center">
+  <b>1. Platform Landing Page & Hero Section</b><br>
+  <img src="https://i.ibb.co.com/nN5mRBWx/skill-swap-Screenshot-2025-12-05-100603.png" alt="SkillSwap Hub Home" width="90%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://i.ibb.co.com/My659M60/skill-swap-detailss.png" alt="Skill Details" width="48%" />
+  <img src="https://i.ibb.co.com/QjMB9sxX/skill-swap-add-skill.png" alt="User Dashboard" width="48%" />
+</p>
+
+<p align="center">
+  <i>(Left: Comprehensive Skill Details | Right: Secure Skill Management Dashboard)</i>
+</p>
+
+---
+
 ## 🏠 Pages Overview
 
 ### 1. Landing Page
